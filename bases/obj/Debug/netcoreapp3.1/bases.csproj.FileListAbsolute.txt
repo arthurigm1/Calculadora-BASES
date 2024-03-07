@@ -1,0 +1,16 @@
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.AssemblyInfo.cs
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\bases.exe
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\bases.deps.json
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\bases.runtimeconfig.json
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\bases.runtimeconfig.dev.json
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\bases.dll
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\bases.pdb
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.dll
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.pdb
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.genruntimeconfig.cache
+C:\Users\T-GAMER\source\repos\bases\bases\bin\Debug\netcoreapp3.1\Colorful.Console.dll
+C:\Users\T-GAMER\source\repos\bases\bases\obj\Debug\netcoreapp3.1\bases.csproj.CopyComplete
